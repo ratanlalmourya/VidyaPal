@@ -1,3 +1,4 @@
 backend/target/
 mobile/node_modules/
 .DS_Store
+mobile/package-lock.json
