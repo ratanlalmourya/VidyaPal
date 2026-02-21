@@ -4,6 +4,7 @@ VidyaPal is a full-stack learning companion that pairs a React Native mobile app
 
 ## Project structure
 
+
 ```
 .
 ├── backend/   # Spring Boot REST API with H2 in-memory database
